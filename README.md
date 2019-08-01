@@ -17,7 +17,7 @@
 
 在src/test/java上，run as Junit test。
 
-測試包含single tread 和 muti tread。
+測試包含single thread 和 muti thread。
 
 ## Class Diagram
 
